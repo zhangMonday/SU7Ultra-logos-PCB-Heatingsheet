@@ -50,7 +50,6 @@ PCB到手后，焊接一个6P的Type-C母座即可使用。
 - **嘉立创**：不支持亮黑色阻焊，内层铜厚不支持1oz，不支持此沉金面积。
 - **捷配**：因外层线路过密影响产线无法通过审核。
 
-  若下单时提示拆单嫌疑，可使用此工具绕过：[JLC-no-chaidan](https://github.com/zhangMonday/JLC-no-chaidan)
 
 ## 关于成品
 
